@@ -1,0 +1,46 @@
+{
+  "app/app.js": "/public/js/app/app.js",
+  "img/password.svg": "/public/img/password.svg",
+  "img/404.svg": "/public/img/404.svg",
+  "img/clipboard.svg": "/public/img/clipboard.svg",
+  "img/dashboard.svg": "/public/img/dashboard.svg",
+  "img/edit.svg": "/public/img/edit.svg",
+  "img/example.svg": "/public/img/example.svg",
+  "img/eye.svg": "/public/img/eye.svg",
+  "img/form.svg": "/public/img/form.svg",
+  "img/icon.svg": "/public/img/icon.svg",
+  "img/international.svg": "/public/img/international.svg",
+  "img/language.svg": "/public/img/language.svg",
+  "img/list.svg": "/public/img/list.svg",
+  "img/lock.svg": "/public/img/lock.svg",
+  "img/nested.svg": "/public/img/nested.svg",
+  "img/bug.svg": "/public/img/bug.svg",
+  "img/people.svg": "/public/img/people.svg",
+  "img/peoples.svg": "/public/img/peoples.svg",
+  "img/qq.svg": "/public/img/qq.svg",
+  "img/shoppingCard.svg": "/public/img/shoppingCard.svg",
+  "img/star.svg": "/public/img/star.svg",
+  "img/tab.svg": "/public/img/tab.svg",
+  "img/table.svg": "/public/img/table.svg",
+  "img/theme.svg": "/public/img/theme.svg",
+  "img/wechat.svg": "/public/img/wechat.svg",
+  "img/zip.svg": "/public/img/zip.svg",
+  "font/element-icons.ttf": "/public/font/element-icons.ttf",
+  "font/element-icons.woff": "/public/font/element-icons.woff",
+  "js/vendor.js": "/public/js/vendor.js",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "app/app.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/app/app.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}

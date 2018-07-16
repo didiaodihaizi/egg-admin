@@ -1,0 +1,346 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js"
+  },
+  "view": {
+    "cache": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view/config/config.local.js",
+    "root": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+      "runInNewContext": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+    "dir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+    "encoding": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "env": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "level": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+    "dir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+    "maxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.local.js",
+    "dynamic": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+  "middleware": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.default.js",
+  "development": {
+    "watchDirs": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.local.js",
+    "ignoreDirs": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.local.js",
+    "fastReady": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.local.js",
+    "prefix": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logview/config/config.default.js",
+    "staticHost": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logview/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/config/config.local.js",
+    "protocolWhiteList": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "cors": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-cors/config/config.default.js",
+  "webpack": {
+    "port": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-webpack/config/config.default.js",
+      "match": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-webpack/config/config.default.js"
+    },
+    "webpackConfigList": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg-webpack/config/config.default.js"
+  },
+  "env": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "name": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "version": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "description": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "debug": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "build": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "build:dev": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "build:test": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "build:prod": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "dev": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "start": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "lint": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "fix": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "ii": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "extend": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "mint-ui": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "moment": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vue": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "easywebpack-vue": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-logview": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "ip": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "less": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "vconsole": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "url": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "license": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "strict": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "depth": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "logging": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "port": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/i/Desktop/project/learn/easywebpack/eggvuesingle/node_modules/egg/config/config.default.js"
+}
